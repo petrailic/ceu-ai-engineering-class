@@ -1,0 +1,699 @@
+CITY: Cape Town
+COUNTRY: South Africa
+REGION: Africa
+POPULATION: 4337000
+BEST_TIME_TO_VISIT: November to March
+LANGUAGE: English, Afrikaans
+CURRENCY: South African Rand (ZAR)
+TOP_ATTRACTIONS: Table Mountain, Robben Island, Cape Point
+POPULAR_FOODS: Braai, Biltong, Bunny Chow
+TRANSPORT: Buses, taxis, rental cars
+AVERAGE_DAILY_COST: 80 USD
+SAFETY_LEVEL: Medium
+NOTES: One of Africa’s most scenic cities.
+
+CITY: Nairobi
+COUNTRY: Kenya
+REGION: Africa
+POPULATION: 4397000
+BEST_TIME_TO_VISIT: June to October
+LANGUAGE: English, Swahili
+CURRENCY: Kenyan Shilling (KES)
+TOP_ATTRACTIONS: Nairobi National Park, Giraffe Centre, Karen Blixen Museum
+POPULAR_FOODS: Nyama Choma, Ugali, Sukuma Wiki
+TRANSPORT: Buses, matatus, taxis
+AVERAGE_DAILY_COST: 70 USD
+SAFETY_LEVEL: Medium
+NOTES: Major economic hub of East Africa.
+
+CITY: Cairo
+COUNTRY: Egypt
+REGION: Africa
+POPULATION: 10230000
+BEST_TIME_TO_VISIT: October to April
+LANGUAGE: Arabic
+CURRENCY: Egyptian Pound (EGP)
+TOP_ATTRACTIONS: Pyramids of Giza, Egyptian Museum, Khan el-Khalili Market
+POPULAR_FOODS: Koshari, Falafel, Shawarma
+TRANSPORT: Metro, buses, taxis
+AVERAGE_DAILY_COST: 60 USD
+SAFETY_LEVEL: Medium
+NOTES: Home to some of the world’s most famous ancient monuments.
+
+CITY: Marrakech
+COUNTRY: Morocco
+REGION: Africa
+POPULATION: 928000
+BEST_TIME_TO_VISIT: March to May and September to November
+LANGUAGE: Arabic, French
+CURRENCY: Moroccan Dirham (MAD)
+TOP_ATTRACTIONS: Jemaa el-Fnaa Square, Bahia Palace, Majorelle Garden
+POPULAR_FOODS: Tagine, Couscous, Harira
+TRANSPORT: Taxis, buses
+AVERAGE_DAILY_COST: 75 USD
+SAFETY_LEVEL: Medium
+NOTES: Known for historic medina and colorful markets.
+
+CITY: Lagos
+COUNTRY: Nigeria
+REGION: Africa
+POPULATION: 15000000
+BEST_TIME_TO_VISIT: November to February
+LANGUAGE: English
+CURRENCY: Nigerian Naira (NGN)
+TOP_ATTRACTIONS: Lekki Conservation Centre, Nike Art Gallery, Tarkwa Bay Beach
+POPULAR_FOODS: Jollof Rice, Suya, Puff Puff
+TRANSPORT: Buses, taxis, ferries
+AVERAGE_DAILY_COST: 65 USD
+SAFETY_LEVEL: Medium
+NOTES: Largest city in Nigeria and major economic center.
+
+CITY: Tunis
+COUNTRY: Tunisia
+REGION: Africa
+POPULATION: 638000
+BEST_TIME_TO_VISIT: April to June and September to October
+LANGUAGE: Arabic, French
+CURRENCY: Tunisian Dinar (TND)
+TOP_ATTRACTIONS: Medina of Tunis, Bardo Museum, Carthage Ruins
+POPULAR_FOODS: Couscous, Brik, Shakshouka
+TRANSPORT: Trams, buses, taxis
+AVERAGE_DAILY_COST: 65 USD
+SAFETY_LEVEL: Medium
+NOTES: Mediterranean capital with Roman ruins.
+
+CITY: Addis Ababa
+COUNTRY: Ethiopia
+REGION: Africa
+POPULATION: 5200000
+BEST_TIME_TO_VISIT: October to March
+LANGUAGE: Amharic
+CURRENCY: Ethiopian Birr (ETB)
+TOP_ATTRACTIONS: National Museum of Ethiopia, Holy Trinity Cathedral, Merkato Market
+POPULAR_FOODS: Injera, Doro Wat, Tibs
+TRANSPORT: Light rail, buses, taxis
+AVERAGE_DAILY_COST: 55 USD
+SAFETY_LEVEL: Medium
+NOTES: Political capital of the African Union.
+
+CITY: Johannesburg
+COUNTRY: South Africa
+REGION: Africa
+POPULATION: 9570000
+BEST_TIME_TO_VISIT: March to May and September to November
+LANGUAGE: English, Zulu
+CURRENCY: South African Rand (ZAR)
+TOP_ATTRACTIONS: Apartheid Museum, Gold Reef City, Constitution Hill
+POPULAR_FOODS: Biltong, Boerewors, Pap
+TRANSPORT: Buses, taxis, trains
+AVERAGE_DAILY_COST: 80 USD
+SAFETY_LEVEL: Medium
+NOTES: Largest city in South Africa.
+
+CITY: Accra
+COUNTRY: Ghana
+REGION: Africa
+POPULATION: 2400000
+BEST_TIME_TO_VISIT: November to March
+LANGUAGE: English
+CURRENCY: Ghanaian Cedi (GHS)
+TOP_ATTRACTIONS: Kwame Nkrumah Mausoleum, Labadi Beach, Jamestown
+POPULAR_FOODS: Jollof Rice, Banku, Fufu
+TRANSPORT: Buses, taxis
+AVERAGE_DAILY_COST: 60 USD
+SAFETY_LEVEL: Medium
+NOTES: Coastal capital with vibrant culture.
+
+CITY: Dakar
+COUNTRY: Senegal
+REGION: Africa
+POPULATION: 1200000
+BEST_TIME_TO_VISIT: November to May
+LANGUAGE: French, Wolof
+CURRENCY: West African CFA Franc (XOF)
+TOP_ATTRACTIONS: Goree Island, African Renaissance Monument, Dakar Grand Mosque
+POPULAR_FOODS: Thieboudienne, Yassa Chicken
+TRANSPORT: Buses, taxis
+AVERAGE_DAILY_COST: 65 USD
+SAFETY_LEVEL: Medium
+NOTES: Cultural and economic center of Senegal.
+
+CITY: Paris
+COUNTRY: France
+REGION: Europe
+POPULATION: 2148000
+BEST_TIME_TO_VISIT: April to June and September to October
+LANGUAGE: French
+CURRENCY: Euro (EUR)
+TOP_ATTRACTIONS: Eiffel Tower, Louvre Museum, Notre-Dame Cathedral
+POPULAR_FOODS: Croissants, Baguette, Escargots
+TRANSPORT: Metro, buses, trams
+AVERAGE_DAILY_COST: 150 USD
+SAFETY_LEVEL: Medium to High
+NOTES: Global center for art and culture.
+
+CITY: London
+COUNTRY: United Kingdom
+REGION: Europe
+POPULATION: 8982000
+BEST_TIME_TO_VISIT: May to September
+LANGUAGE: English
+CURRENCY: British Pound (GBP)
+TOP_ATTRACTIONS: Big Ben, Buckingham Palace, Tower Bridge
+POPULAR_FOODS: Fish and Chips, Shepherd’s Pie
+TRANSPORT: Underground, buses
+AVERAGE_DAILY_COST: 170 USD
+SAFETY_LEVEL: High
+NOTES: Historic and financial center of the UK.
+
+CITY: Rome
+COUNTRY: Italy
+REGION: Europe
+POPULATION: 2873000
+BEST_TIME_TO_VISIT: April to June and September to October
+LANGUAGE: Italian
+CURRENCY: Euro (EUR)
+TOP_ATTRACTIONS: Colosseum, Vatican City, Trevi Fountain
+POPULAR_FOODS: Pasta Carbonara, Pizza, Gelato
+TRANSPORT: Metro, buses
+AVERAGE_DAILY_COST: 140 USD
+SAFETY_LEVEL: Medium
+NOTES: Historic capital of the Roman Empire.
+
+CITY: Barcelona
+COUNTRY: Spain
+REGION: Europe
+POPULATION: 1620000
+BEST_TIME_TO_VISIT: May to June and September
+LANGUAGE: Spanish, Catalan
+CURRENCY: Euro (EUR)
+TOP_ATTRACTIONS: Sagrada Familia, Park Güell, La Rambla
+POPULAR_FOODS: Paella, Tapas
+TRANSPORT: Metro, trams
+AVERAGE_DAILY_COST: 120 USD
+SAFETY_LEVEL: Medium
+NOTES: Mediterranean coastal city known for Gaudí architecture.
+
+CITY: Vienna
+COUNTRY: Austria
+REGION: Europe
+POPULATION: 2000000
+BEST_TIME_TO_VISIT: April to June and September to October
+LANGUAGE: German
+CURRENCY: Euro (EUR)
+TOP_ATTRACTIONS: Schönbrunn Palace, St. Stephen’s Cathedral, Belvedere Palace
+POPULAR_FOODS: Wiener Schnitzel, Sachertorte
+TRANSPORT: U-Bahn, trams
+AVERAGE_DAILY_COST: 150 USD
+SAFETY_LEVEL: High
+NOTES: Famous for classical music and imperial history.
+
+CITY: Berlin
+COUNTRY: Germany
+REGION: Europe
+POPULATION: 3769000
+BEST_TIME_TO_VISIT: May to September
+LANGUAGE: German
+CURRENCY: Euro (EUR)
+TOP_ATTRACTIONS: Brandenburg Gate, Berlin Wall Memorial
+POPULAR_FOODS: Currywurst, Pretzels
+TRANSPORT: U-Bahn, S-Bahn, buses
+AVERAGE_DAILY_COST: 120 USD
+SAFETY_LEVEL: High
+NOTES: Known for history and nightlife.
+
+CITY: Amsterdam
+COUNTRY: Netherlands
+REGION: Europe
+POPULATION: 905000
+BEST_TIME_TO_VISIT: April to May
+LANGUAGE: Dutch
+CURRENCY: Euro (EUR)
+TOP_ATTRACTIONS: Anne Frank House, Rijksmuseum, Canal Ring
+POPULAR_FOODS: Stroopwafels, Bitterballen
+TRANSPORT: Bikes, trams
+AVERAGE_DAILY_COST: 150 USD
+SAFETY_LEVEL: High
+NOTES: Famous for canals and cycling culture.
+
+CITY: Prague
+COUNTRY: Czech Republic
+REGION: Europe
+POPULATION: 1300000
+BEST_TIME_TO_VISIT: May to September
+LANGUAGE: Czech
+CURRENCY: Czech Koruna (CZK)
+TOP_ATTRACTIONS: Prague Castle, Charles Bridge
+POPULAR_FOODS: Goulash, Trdelnik
+TRANSPORT: Trams, metro
+AVERAGE_DAILY_COST: 90 USD
+SAFETY_LEVEL: High
+NOTES: One of Europe’s most beautiful historic cities.
+
+CITY: Budapest
+COUNTRY: Hungary
+REGION: Europe
+POPULATION: 1752000
+BEST_TIME_TO_VISIT: April to October
+LANGUAGE: Hungarian
+CURRENCY: Hungarian Forint (HUF)
+TOP_ATTRACTIONS: Buda Castle, Parliament Building
+POPULAR_FOODS: Goulash, Langos
+TRANSPORT: Metro, trams
+AVERAGE_DAILY_COST: 90 USD
+SAFETY_LEVEL: High
+NOTES: Famous for thermal baths.
+
+CITY: Lisbon
+COUNTRY: Portugal
+REGION: Europe
+POPULATION: 545000
+BEST_TIME_TO_VISIT: March to May and September
+LANGUAGE: Portuguese
+CURRENCY: Euro (EUR)
+TOP_ATTRACTIONS: Belem Tower, Alfama District
+POPULAR_FOODS: Bacalhau, Pastel de Nata
+TRANSPORT: Trams, metro
+AVERAGE_DAILY_COST: 100 USD
+SAFETY_LEVEL: High
+NOTES: Coastal city with colorful streets.
+
+CITY: Athens
+COUNTRY: Greece
+REGION: Europe
+POPULATION: 3153000
+BEST_TIME_TO_VISIT: April to June and September
+LANGUAGE: Greek
+CURRENCY: Euro (EUR)
+TOP_ATTRACTIONS: Acropolis, Parthenon
+POPULAR_FOODS: Gyros, Moussaka
+TRANSPORT: Metro, buses
+AVERAGE_DAILY_COST: 110 USD
+SAFETY_LEVEL: Medium
+NOTES: Birthplace of democracy.
+
+CITY: Istanbul
+COUNTRY: Turkey
+REGION: Europe and Asia
+POPULATION: 15500000
+BEST_TIME_TO_VISIT: April to May and September
+LANGUAGE: Turkish
+CURRENCY: Turkish Lira (TRY)
+TOP_ATTRACTIONS: Hagia Sophia, Blue Mosque, Grand Bazaar
+POPULAR_FOODS: Kebabs, Baklava
+TRANSPORT: Metro, ferries
+AVERAGE_DAILY_COST: 90 USD
+SAFETY_LEVEL: Medium
+NOTES: City spanning two continents.
+
+CITY: New York
+COUNTRY: United States
+REGION: North America
+POPULATION: 8500000
+BEST_TIME_TO_VISIT: April to June and September
+LANGUAGE: English
+CURRENCY: US Dollar (USD)
+TOP_ATTRACTIONS: Statue of Liberty, Central Park
+POPULAR_FOODS: Pizza, Bagels
+TRANSPORT: Subway, buses
+AVERAGE_DAILY_COST: 200 USD
+SAFETY_LEVEL: Medium
+NOTES: Global financial and cultural hub.
+
+CITY: Los Angeles
+COUNTRY: United States
+REGION: North America
+POPULATION: 3900000
+BEST_TIME_TO_VISIT: March to May
+LANGUAGE: English
+CURRENCY: US Dollar (USD)
+TOP_ATTRACTIONS: Hollywood Sign, Santa Monica Pier
+POPULAR_FOODS: Tacos, Burgers
+TRANSPORT: Cars, buses
+AVERAGE_DAILY_COST: 180 USD
+SAFETY_LEVEL: Medium
+NOTES: Center of the global entertainment industry.
+
+CITY: Toronto
+COUNTRY: Canada
+REGION: North America
+POPULATION: 2930000
+BEST_TIME_TO_VISIT: June to September
+LANGUAGE: English, French
+CURRENCY: Canadian Dollar (CAD)
+TOP_ATTRACTIONS: CN Tower, Royal Ontario Museum, Toronto Islands
+POPULAR_FOODS: Poutine, Butter Tarts, Peameal Bacon Sandwich
+TRANSPORT: Subway, streetcars, buses
+AVERAGE_DAILY_COST: 150 USD
+SAFETY_LEVEL: High
+NOTES: One of the most multicultural cities in the world.
+
+CITY: Chicago
+COUNTRY: United States
+REGION: North America
+POPULATION: 2706000
+BEST_TIME_TO_VISIT: May to September
+LANGUAGE: English
+CURRENCY: US Dollar (USD)
+TOP_ATTRACTIONS: Millennium Park, Willis Tower, Navy Pier
+POPULAR_FOODS: Deep Dish Pizza, Chicago Hot Dog, Italian Beef
+TRANSPORT: Subway, buses, trains
+AVERAGE_DAILY_COST: 140 USD
+SAFETY_LEVEL: Medium
+NOTES: Known for architecture and blues music.
+
+CITY: San Francisco
+COUNTRY: United States
+REGION: North America
+POPULATION: 873000
+BEST_TIME_TO_VISIT: September to November
+LANGUAGE: English
+CURRENCY: US Dollar (USD)
+TOP_ATTRACTIONS: Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf
+POPULAR_FOODS: Clam Chowder, Sourdough Bread, Mission Burrito
+TRANSPORT: Cable cars, buses, metro
+AVERAGE_DAILY_COST: 190 USD
+SAFETY_LEVEL: Medium
+NOTES: Famous for tech industry and iconic bridges.
+
+CITY: Vancouver
+COUNTRY: Canada
+REGION: North America
+POPULATION: 675000
+BEST_TIME_TO_VISIT: June to September
+LANGUAGE: English
+CURRENCY: Canadian Dollar (CAD)
+TOP_ATTRACTIONS: Stanley Park, Capilano Suspension Bridge, Granville Island
+POPULAR_FOODS: Sushi, Salmon Dishes, Poutine
+TRANSPORT: SkyTrain, buses
+AVERAGE_DAILY_COST: 150 USD
+SAFETY_LEVEL: High
+NOTES: Coastal city surrounded by mountains.
+
+CITY: Mexico City
+COUNTRY: Mexico
+REGION: North America
+POPULATION: 9200000
+BEST_TIME_TO_VISIT: March to May
+LANGUAGE: Spanish
+CURRENCY: Mexican Peso (MXN)
+TOP_ATTRACTIONS: Zocalo, Frida Kahlo Museum, Teotihuacan
+POPULAR_FOODS: Tacos, Tamales, Quesadillas
+TRANSPORT: Metro, buses
+AVERAGE_DAILY_COST: 80 USD
+SAFETY_LEVEL: Medium
+NOTES: Cultural heart of Mexico.
+
+CITY: Miami
+COUNTRY: United States
+REGION: North America
+POPULATION: 470000
+BEST_TIME_TO_VISIT: November to April
+LANGUAGE: English, Spanish
+CURRENCY: US Dollar (USD)
+TOP_ATTRACTIONS: South Beach, Little Havana, Art Deco District
+POPULAR_FOODS: Cuban Sandwich, Stone Crab, Key Lime Pie
+TRANSPORT: Buses, metro, taxis
+AVERAGE_DAILY_COST: 160 USD
+SAFETY_LEVEL: Medium
+NOTES: Famous for beaches and nightlife.
+
+CITY: Rio de Janeiro
+COUNTRY: Brazil
+REGION: South America
+POPULATION: 6748000
+BEST_TIME_TO_VISIT: May to October
+LANGUAGE: Portuguese
+CURRENCY: Brazilian Real (BRL)
+TOP_ATTRACTIONS: Christ the Redeemer, Sugarloaf Mountain, Copacabana Beach
+POPULAR_FOODS: Feijoada, Pao de Queijo, Acai
+TRANSPORT: Metro, buses
+AVERAGE_DAILY_COST: 90 USD
+SAFETY_LEVEL: Medium
+NOTES: Known for Carnival and beaches.
+
+CITY: Buenos Aires
+COUNTRY: Argentina
+REGION: South America
+POPULATION: 3075000
+BEST_TIME_TO_VISIT: March to May and September to November
+LANGUAGE: Spanish
+CURRENCY: Argentine Peso (ARS)
+TOP_ATTRACTIONS: Plaza de Mayo, La Boca, Teatro Colon
+POPULAR_FOODS: Empanadas, Asado, Dulce de Leche
+TRANSPORT: Subte metro, buses
+AVERAGE_DAILY_COST: 85 USD
+SAFETY_LEVEL: Medium
+NOTES: Famous for tango culture.
+
+CITY: Santiago
+COUNTRY: Chile
+REGION: South America
+POPULATION: 5600000
+BEST_TIME_TO_VISIT: September to November
+LANGUAGE: Spanish
+CURRENCY: Chilean Peso (CLP)
+TOP_ATTRACTIONS: San Cristobal Hill, Plaza de Armas, Sky Costanera
+POPULAR_FOODS: Empanadas, Pastel de Choclo
+TRANSPORT: Metro, buses
+AVERAGE_DAILY_COST: 90 USD
+SAFETY_LEVEL: High
+NOTES: Modern city surrounded by the Andes.
+
+CITY: Lima
+COUNTRY: Peru
+REGION: South America
+POPULATION: 9675000
+BEST_TIME_TO_VISIT: December to April
+LANGUAGE: Spanish
+CURRENCY: Peruvian Sol (PEN)
+TOP_ATTRACTIONS: Plaza Mayor, Miraflores, Larco Museum
+POPULAR_FOODS: Ceviche, Lomo Saltado
+TRANSPORT: Buses, taxis
+AVERAGE_DAILY_COST: 80 USD
+SAFETY_LEVEL: Medium
+NOTES: Culinary capital of South America.
+
+CITY: Tokyo
+COUNTRY: Japan
+REGION: Asia
+POPULATION: 14000000
+BEST_TIME_TO_VISIT: March to May and October
+LANGUAGE: Japanese
+CURRENCY: Japanese Yen (JPY)
+TOP_ATTRACTIONS: Shibuya Crossing, Tokyo Skytree, Senso-ji Temple
+POPULAR_FOODS: Sushi, Ramen, Tempura
+TRANSPORT: Subway, trains
+AVERAGE_DAILY_COST: 150 USD
+SAFETY_LEVEL: High
+NOTES: One of the world’s most advanced cities.
+
+CITY: Seoul
+COUNTRY: South Korea
+REGION: Asia
+POPULATION: 9776000
+BEST_TIME_TO_VISIT: April to June and September
+LANGUAGE: Korean
+CURRENCY: South Korean Won (KRW)
+TOP_ATTRACTIONS: Gyeongbokgung Palace, Bukchon Hanok Village
+POPULAR_FOODS: Kimchi, Bibimbap, Korean BBQ
+TRANSPORT: Metro, buses
+AVERAGE_DAILY_COST: 120 USD
+SAFETY_LEVEL: High
+NOTES: Known for technology and pop culture.
+
+CITY: Bangkok
+COUNTRY: Thailand
+REGION: Asia
+POPULATION: 10500000
+BEST_TIME_TO_VISIT: November to February
+LANGUAGE: Thai
+CURRENCY: Thai Baht (THB)
+TOP_ATTRACTIONS: Grand Palace, Wat Pho, Wat Arun
+POPULAR_FOODS: Pad Thai, Mango Sticky Rice
+TRANSPORT: BTS Skytrain, tuk-tuks
+AVERAGE_DAILY_COST: 70 USD
+SAFETY_LEVEL: Medium
+NOTES: Famous for temples and street food.
+
+CITY: Singapore
+COUNTRY: Singapore
+REGION: Asia
+POPULATION: 5700000
+BEST_TIME_TO_VISIT: February to April
+LANGUAGE: English, Malay, Mandarin
+CURRENCY: Singapore Dollar (SGD)
+TOP_ATTRACTIONS: Marina Bay Sands, Gardens by the Bay
+POPULAR_FOODS: Hainanese Chicken Rice, Laksa
+TRANSPORT: MRT, buses
+AVERAGE_DAILY_COST: 180 USD
+SAFETY_LEVEL: Very High
+NOTES: One of the safest cities in the world.
+
+CITY: Kuala Lumpur
+COUNTRY: Malaysia
+REGION: Asia
+POPULATION: 1800000
+BEST_TIME_TO_VISIT: May to July
+LANGUAGE: Malay
+CURRENCY: Malaysian Ringgit (MYR)
+TOP_ATTRACTIONS: Petronas Towers, Batu Caves
+POPULAR_FOODS: Nasi Lemak, Satay
+TRANSPORT: Metro, buses
+AVERAGE_DAILY_COST: 80 USD
+SAFETY_LEVEL: High
+NOTES: Modern city with diverse culture.
+
+CITY: Dubai
+COUNTRY: United Arab Emirates
+REGION: Middle East
+POPULATION: 3500000
+BEST_TIME_TO_VISIT: November to March
+LANGUAGE: Arabic, English
+CURRENCY: UAE Dirham (AED)
+TOP_ATTRACTIONS: Burj Khalifa, Palm Jumeirah
+POPULAR_FOODS: Shawarma, Hummus
+TRANSPORT: Metro, taxis
+AVERAGE_DAILY_COST: 200 USD
+SAFETY_LEVEL: High
+NOTES: Known for luxury shopping and skyscrapers.
+
+CITY: Doha
+COUNTRY: Qatar
+REGION: Middle East
+POPULATION: 956000
+BEST_TIME_TO_VISIT: November to March
+LANGUAGE: Arabic
+CURRENCY: Qatari Riyal (QAR)
+TOP_ATTRACTIONS: Souq Waqif, Museum of Islamic Art
+POPULAR_FOODS: Machboos, Harees
+TRANSPORT: Metro, taxis
+AVERAGE_DAILY_COST: 160 USD
+SAFETY_LEVEL: High
+NOTES: Rapidly developing global city.
+
+CITY: Tel Aviv
+COUNTRY: Israel
+REGION: Middle East
+POPULATION: 460000
+BEST_TIME_TO_VISIT: March to May
+LANGUAGE: Hebrew
+CURRENCY: Israeli Shekel (ILS)
+TOP_ATTRACTIONS: Jaffa Old City, Tel Aviv Beach
+POPULAR_FOODS: Falafel, Shakshuka
+TRANSPORT: Buses, bikes
+AVERAGE_DAILY_COST: 170 USD
+SAFETY_LEVEL: Medium
+NOTES: Known for beaches and nightlife.
+
+CITY: Sydney
+COUNTRY: Australia
+REGION: Oceania
+POPULATION: 5300000
+BEST_TIME_TO_VISIT: September to November
+LANGUAGE: English
+CURRENCY: Australian Dollar (AUD)
+TOP_ATTRACTIONS: Sydney Opera House, Harbour Bridge
+POPULAR_FOODS: Meat Pie, Pavlova
+TRANSPORT: Trains, ferries
+AVERAGE_DAILY_COST: 180 USD
+SAFETY_LEVEL: High
+NOTES: Famous harbor city.
+
+CITY: Melbourne
+COUNTRY: Australia
+REGION: Oceania
+POPULATION: 5078000
+BEST_TIME_TO_VISIT: March to May
+LANGUAGE: English
+CURRENCY: Australian Dollar (AUD)
+TOP_ATTRACTIONS: Federation Square, Great Ocean Road
+POPULAR_FOODS: Meat Pie, Flat White Coffee
+TRANSPORT: Trams, trains
+AVERAGE_DAILY_COST: 170 USD
+SAFETY_LEVEL: High
+NOTES: Cultural capital of Australia.
+
+CITY: Auckland
+COUNTRY: New Zealand
+REGION: Oceania
+POPULATION: 1657000
+BEST_TIME_TO_VISIT: December to March
+LANGUAGE: English
+CURRENCY: New Zealand Dollar (NZD)
+TOP_ATTRACTIONS: Sky Tower, Waiheke Island
+POPULAR_FOODS: Seafood, Lamb
+TRANSPORT: Buses, ferries
+AVERAGE_DAILY_COST: 160 USD
+SAFETY_LEVEL: High
+NOTES: Known as the City of Sails.
+
+CITY: Wellington
+COUNTRY: New Zealand
+REGION: Oceania
+POPULATION: 215000
+BEST_TIME_TO_VISIT: December to March
+LANGUAGE: English
+CURRENCY: New Zealand Dollar (NZD)
+TOP_ATTRACTIONS: Te Papa Museum, Wellington Cable Car, Mount Victoria
+POPULAR_FOODS: Lamb Dishes, Fish and Chips, Pavlova
+TRANSPORT: Buses, trains, ferries
+AVERAGE_DAILY_COST: 150 USD
+SAFETY_LEVEL: High
+NOTES: Scenic coastal capital known for arts and culture.
+
+CITY: Perth
+COUNTRY: Australia
+REGION: Oceania
+POPULATION: 2100000
+BEST_TIME_TO_VISIT: September to November
+LANGUAGE: English
+CURRENCY: Australian Dollar (AUD)
+TOP_ATTRACTIONS: Kings Park, Cottesloe Beach, Swan River
+POPULAR_FOODS: Seafood, Meat Pie, Barramundi
+TRANSPORT: Trains, buses
+AVERAGE_DAILY_COST: 170 USD
+SAFETY_LEVEL: High
+NOTES: Sunny city on Australia’s western coast.
+
+CITY: Manila
+COUNTRY: Philippines
+REGION: Asia
+POPULATION: 1780000
+BEST_TIME_TO_VISIT: December to February
+LANGUAGE: Filipino, English
+CURRENCY: Philippine Peso (PHP)
+TOP_ATTRACTIONS: Intramuros, Rizal Park, Manila Cathedral
+POPULAR_FOODS: Adobo, Lechon, Halo-Halo
+TRANSPORT: Jeepneys, buses, metro
+AVERAGE_DAILY_COST: 70 USD
+SAFETY_LEVEL: Medium
+NOTES: Historic capital with Spanish colonial heritage.
+
+CITY: Jakarta
+COUNTRY: Indonesia
+REGION: Asia
+POPULATION: 10770000
+BEST_TIME_TO_VISIT: June to September
+LANGUAGE: Indonesian
+CURRENCY: Indonesian Rupiah (IDR)
+TOP_ATTRACTIONS: National Monument, Istiqlal Mosque, Old Town Jakarta
+POPULAR_FOODS: Nasi Goreng, Satay, Gado-Gado
+TRANSPORT: Metro, buses, taxis
+AVERAGE_DAILY_COST: 75 USD
+SAFETY_LEVEL: Medium
+NOTES: Indonesia’s busy capital and economic center.
+
+CITY: Bogota
+COUNTRY: Colombia
+REGION: South America
+POPULATION: 7400000
+BEST_TIME_TO_VISIT: December to March
+LANGUAGE: Spanish
+CURRENCY: Colombian Peso (COP)
+TOP_ATTRACTIONS: Monserrate, Gold Museum, Plaza Bolivar
+POPULAR_FOODS: Arepas, Ajiaco Soup, Empanadas
+TRANSPORT: Buses, TransMilenio BRT
+AVERAGE_DAILY_COST: 85 USD
+SAFETY_LEVEL: Medium
+NOTES: High-altitude capital with rich culture and history.

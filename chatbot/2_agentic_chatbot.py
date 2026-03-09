@@ -3,7 +3,7 @@ import dotenv
 from openai.types.responses import ResponseTextDeltaEvent
 
 from agents import Runner
-from nutrition_agent import nutrition_agent
+from travel_agent import travel_agent
 
 dotenv.load_dotenv()
 
@@ -12,7 +12,7 @@ dotenv.load_dotenv()
 async def on_message(message: cl.Message):
 
     result = Runner.run_streamed(
-        nutrition_agent,
+        travel_agent,
         message.content,
     )
 

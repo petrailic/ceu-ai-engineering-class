@@ -5,7 +5,7 @@ import os
 from openai.types.responses import ResponseTextDeltaEvent
 
 from agents import Runner, SQLiteSession
-from nutrition_agent import nutrition_agent
+from travel_agent import travel_agent
 
 dotenv.load_dotenv()
 
@@ -20,7 +20,7 @@ async def on_chat_start():
 async def on_message(message: cl.Message):
     session = cl.user_session.get("agent_session")
 
-    result = Runner.run_streamed(nutrition_agent, message.content, session=session)
+    result = Runner.run_streamed(travel_agent, message.content, session=session)
 
     msg = cl.Message(content="")
     async for event in result.stream_events():
